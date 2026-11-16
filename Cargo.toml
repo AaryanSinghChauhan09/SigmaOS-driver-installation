@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-driver-installation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS driver-installation component - installer"
+
+[lib]
+name = "driver_installation"
+path = "src/lib.rs"
