@@ -3,7 +3,7 @@ name = "SigmaOS-driver-installation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "driver-installation component"
+description = "Driver Installation"
 upstream = []
 
 [contract]
